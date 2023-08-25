@@ -1,4 +1,4 @@
-// HoofByte -  Aug 1st, 2023
+// HoofByte/bartylol -  Aug 1st, 2023
 // the bot - nightstorm 3
 
 const fs = require('node:fs');
